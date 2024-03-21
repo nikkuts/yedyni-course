@@ -51,22 +51,21 @@ h1, h2, h3, ul, p {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-family: 'Halvar Breitschrift', sans-serif;
+    font-size: 20px;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
     background-color: var(--primary-background-color);
 }
 
 .section {
-    padding-top: 94px;
-    padding-bottom: 94px;
+    padding: 50px 170px;
 }
 
 .container {
-    width: 1200px;
+    width: 1450px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 0;
   }
 
 .visually-hidden {
